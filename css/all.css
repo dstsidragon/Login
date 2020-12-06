@@ -1,0 +1,42 @@
+
+.signup form{
+    margin: 0 auto;
+    width: 200px;
+    border: solid black 1px;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+.login form{
+    margin: 0 auto;
+    width: 200px;
+    border: solid black 1px;
+    padding: 10px;
+    
+}
+
+@media(max-width:413px){
+    
+
+.signup form{
+    text-align: center;
+    width: 96%;
+    height:45%;
+    border: solid black 1px;
+    padding: 0.5%;
+    margin-bottom: 10px;
+}
+
+.login form{
+    text-align: center;
+    height: 45%;
+    width: 96%;
+    border: solid black 1px;
+    padding: 0.5%;
+    
+}
+h1{
+    font-size:20px;
+
+}
+}
